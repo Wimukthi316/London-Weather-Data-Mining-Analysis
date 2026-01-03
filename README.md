@@ -13,7 +13,7 @@ Data Mining Assignment/
 │
 ├── London_Weather_Analysis.ipynb        # Main Jupyter notebook with complete analysis
 ├── london_weather_with_class_labels.csv # Dataset with weather measurements
-├── Coursework_1_DataMining_T.html       # HTML export of the analysis
+├── Coursework_DataMining.html       # HTML export of the analysis
 └── README.md                            # Project documentation
 ```
 
